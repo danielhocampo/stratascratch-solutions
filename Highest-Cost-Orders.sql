@@ -1,3 +1,5 @@
+-- URL: https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1
+
 with a as
 (
 select distinct c.first_name, o.order_date,

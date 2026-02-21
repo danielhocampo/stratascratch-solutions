@@ -16,3 +16,4 @@ from a
 where ranks = 1
 order by order_date, total_order_cost desc
 ;
+ 

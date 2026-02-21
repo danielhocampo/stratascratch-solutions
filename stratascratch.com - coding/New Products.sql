@@ -1,3 +1,5 @@
+-- URL: https://platform.stratascratch.com/coding/10318-new-products
+
 with a as
 (
 select company_name,
